@@ -1,6 +1,6 @@
 # CourseProject_GettingandCleaningData 
 
-## Step 1: load data. Set the directory. Use paste function to load file and then read.table command
+Step 1: load data. Set the directory. Use paste function to load file and then read.table command
 ## Do this for the following files:
 ## 1. X_train.txt
 ## 2. X_test.txt
